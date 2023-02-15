@@ -1,0 +1,15 @@
+
+.conteiner{
+    margin: auto;
+    max-width: 1000px;
+    padding: 20px;
+}
+
+
+
+.conteiner__header {
+    color: gold;
+    text-align: center;
+    font-size: 25px ;
+    font-style: bold;
+}

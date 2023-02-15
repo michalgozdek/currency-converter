@@ -1,0 +1,27 @@
+.buttons{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+.buttons__calculate{
+    margin: auto;
+    padding: 20px;
+    color: gold;
+    
+}
+.buttons__calculateInside{
+    color: gold;
+    background-color: gray;
+    padding: 5.5px;
+}
+.buttons__calculateInside:hover{
+   background-color: rgb(173, 173, 173);
+}
+
+.button__reset{  color: gold;
+    background-color: gray;
+    padding: 5px;
+}
+.button__reset:hover{
+    background-color: rgb(173, 173, 173);
+}
