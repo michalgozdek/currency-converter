@@ -32,6 +32,3 @@ formElement.addEventListener("submit", (Event) => {
     resultCurency.innerHTML = `${"Kwota po przeliczniu"} ${PLN.toFixed(2)}  PLN= <strong>${result.toFixed(2)} ${curency}</strong `;
 });
 
-//resetElement.addEventListener("click" , () => {
-   // resultCurency.remove();
-//})
