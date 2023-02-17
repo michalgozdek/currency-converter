@@ -8,8 +8,15 @@
 
 
 .conteiner__header {
-    color: gold;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 25px ;
     font-style: bold;
+}
+.backgroundImage{
+    background-image: url("../images/dollar-g76e5ae7ae_1280.jpg");
+background-size: 500px;
+background-repeat: no-repeat;
+margin: auto;
+
 }
