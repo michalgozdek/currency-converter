@@ -8,15 +8,15 @@
 
 
 .conteiner__header {
-    color: rgb(255, 255, 255);
+    color:rgb(245, 209, 0);
     text-align: center;
     font-size: 25px ;
     font-style: bold;
 }
 .backgroundImage{
-    background-image: url("../images/dollar-g76e5ae7ae_1280.jpg");
-background-size: 500px;
+    background-image: url("../images/stock-exchange-g378931f98_640.jpg");
+
 background-repeat: no-repeat;
-margin: auto;
+background-position: center;
 
 }
